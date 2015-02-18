@@ -1,0 +1,15 @@
+.msg, .err_msg {
+    font-family: Verdana, Tahoma;
+    font-size: 60px;
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+}
+.msg {
+    color: green;
+    font-size: 60px;
+}
+.err_msg {
+    color: red;
+    font-size: 30px;
+}
